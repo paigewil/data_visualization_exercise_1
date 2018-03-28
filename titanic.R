@@ -1,4 +1,6 @@
-# titanic is avaliable in your workspace
+# Titanic exercise:
+
+#titanic is avaliable in your workspace
 # 1 - Check the structure of titanic
 str(titanic)
 
